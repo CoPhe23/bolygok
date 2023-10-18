@@ -23,3 +23,5 @@
 -   legelső alkalommal a push: > git push -u master
     -t ovábbiakban:
     > git push
+-   adatok megváltoztatása
+    > git config user.(amit meg akarsz változtatni pl.:name;email) "ujnev/ujemail)
